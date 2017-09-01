@@ -1,2 +1,2 @@
 # FIBAR
-Example of fitness based asymptotic parameter reduction
+Example of the fitness based asymptotic parameter reduction algorithm on models in immune detection
